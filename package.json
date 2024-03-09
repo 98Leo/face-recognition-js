@@ -1,0 +1,28 @@
+{
+  "name": "face-recognition",
+  "version": "1.0.0",
+  "description": "Una aplicacion sencilla de reconocimiento facial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98Leo/face-recognition-js.git"
+  },
+  "keywords": [
+    "face",
+    "face-recognition",
+    "javascript",
+    "IA"
+  ],
+  "author": "98leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/98Leo/face-recognition-js/issues"
+  },
+  "homepage": "https://github.com/98Leo/face-recognition-js#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
